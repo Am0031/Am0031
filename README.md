@@ -1,13 +1,5 @@
-### Hi there 👋
 
 <!--
-**Am0031/Am0031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-<h1 align="center">Hi 👋, I'm Amelie</h1>
-<h3 align="center">A passionate full stack web developer from Nottingham</h3>
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,6 +10,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Amelie</h1>
+<h3 align="center">A passionate full stack web developer from Nottingham</h3>
 
 
 - 👨‍💻 All of my projects are available on my [GitHub page](https://github.com/Am0031?tab=repositories)
