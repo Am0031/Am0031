@@ -14,6 +14,7 @@
 <h1 align="center">Hi 👋, I'm Amelie</h1>
 <h3 align="center">A passionate full stack web developer from the UK</h3>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
 
 <h3 align="left">Some info about me:</h3>
 
