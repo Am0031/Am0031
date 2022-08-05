@@ -14,7 +14,7 @@
 <h1 align="center">Hi 👋, I'm Amelie</h1>
 <h3 align="center">A passionate full stack web developer from the UK</h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+<h2 align="right">![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)</h2>
 
 <h3 align="left">Some info about me:</h3>
 
@@ -25,7 +25,7 @@
 - 👨‍💻 All of my projects are available on my [portfolio](https://am0031.github.io/portfolio/) and on my [GitHub page](https://github.com/Am0031?tab=repositories)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 <>Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amelie-pira-b4079855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amelie-pira" height="30" width="40" /></a>
 </p>
