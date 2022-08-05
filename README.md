@@ -14,8 +14,6 @@
 <h1 align="center">Hi 👋, I'm Amelie</h1>
 <h3 align="center">A passionate full stack web developer from the UK</h3>
 
-<h2 align="right">![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)</h2>
-
 <h3 align="left">Some info about me:</h3>
 
 - 🌱 I’m currently learning web development at the University of Birmingham Bootcamp
@@ -37,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=am0031&show_icons=true&locale=en" alt="am0031" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=am0031&" alt="am0031" /></p>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
