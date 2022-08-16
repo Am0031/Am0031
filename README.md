@@ -16,7 +16,7 @@
 
 <h3 align="left">Some info about me:</h3>
 
-- 🌱 I’m currently learning web development at the University of Birmingham Bootcamp
+- 🌱 I’m currently working on React, GraphQL/MongoDB projects
 
 - 📫 How to reach me: Email me at amelie.pira@gmail.com
 
