@@ -1,34 +1,26 @@
 
-<!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hi 👋, I'm Amelie</h1>
 <h3 align="center">A passionate full stack web developer from the UK</h3>
 
-<h3 align="left">Some info about me:</h3>
+![snake gif](https://github.com/amirtha-coder/amirtha-coder/blob/output/github-contribution-grid-snake.gif)
 
-- 🌱 I’m currently working on React, GraphQL/MongoDB projects
+## Some info about me
+
+- 🌱 I’m currently working on ReactJS, GraphQL/MongoDB projects
 
 - 📫 How to reach me: Email me at amelie.pira@gmail.com
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://am0031.github.io/my-portfolio-react/) and on my [GitHub page](https://github.com/Am0031?tab=repositories)
 
 
-<h3 <>Connect with me:</h3>
+## Connect with me
 
 [![](https://img.shields.io/badge/-@ameliepira-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/amelie-pira-b4079855/)
 [![](https://img.shields.io/badge/-@ameliepira-%23E1306C?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:amelie.pira@gmail.com?subject=[GitHub])
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Technologies
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
