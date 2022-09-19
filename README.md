@@ -51,6 +51,3 @@
 <img src="https://github-profile-trophy.vercel.app/?username=am0031"/>
 </div>
 
- <! --- 
-[![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)](url) 
--->
