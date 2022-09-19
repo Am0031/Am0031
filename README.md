@@ -42,12 +42,13 @@
 ## My stats
 
 
-<div id="header" align="center">
+<div id="stats" align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=am0031&show_icons=true&locale=en" alt="am0031" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=am0031&" alt="am0031" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am0031" />
+</div>
+<div id="trophy" align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=am0031"/>
-<img src="https://github-readme-stats.vercel.app/api?username=am0031" />
 </div>
 
 
