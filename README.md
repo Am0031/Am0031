@@ -49,7 +49,5 @@
 <div id="topLang" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am0031" />
 </div>
-<div id="trophy" align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=am0031"/>
-</div>
+
 
