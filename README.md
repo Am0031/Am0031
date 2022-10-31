@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently working on advanced ReactJS, and GraphQL/MongoDB projects
 
-- <p align="center">:zap: I’m looking to collaborate on projects and npm packages!</p>
+- <p align="left">:zap: I’m looking to collaborate on projects and npm packages!</p>
 
 - 📫 How to reach me: Email me at amelie.pira@gmail.com
 
