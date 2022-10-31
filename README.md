@@ -4,13 +4,20 @@
 <h1 align="center">Hi 👋, I'm Amelie</h1>
 <h3 align="center">A passionate full stack web developer from the UK</h3>
 
-![snake gif](https://github.com/amirtha-coder/amirtha-coder/blob/output/github-contribution-grid-snake.gif)
+[![snake gif](https://github.com/amirtha-coder/amirtha-coder/blob/output/github-contribution-grid-snake.gif)](url)
 
 ## Some info about me
+- <p align="left">:star2: I retrained as a full stack developer in 2022 </p>
 
-- 🌱 I’m currently working on ReactJS, GraphQL/MongoDB projects
+- <p align="left">:key: Ask me about my journey into Tech</p>
+
+- 🌱 I’m currently working on advanced ReactJS, and GraphQL/MongoDB projects
+
+- <p align="center">:zap: I’m looking to collaborate on projects and npm packages!</p>
 
 - 📫 How to reach me: Email me at amelie.pira@gmail.com
+
+- <p align="left">:sunny: Fun fact: I'm fluent in French and German</p>
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://am0031.github.io/my-portfolio-react/) and on my [GitHub page](https://github.com/Am0031?tab=repositories)
 
