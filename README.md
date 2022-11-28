@@ -11,7 +11,7 @@
 
 - <p align="left">:key: Ask me about my journey into Tech</p>
 
-- 🌱 I’m currently working on advanced ReactJS, and GraphQL/MongoDB projects
+- 🌱 I’m currently working on advanced ReactJS and Storybook
 
 - <p align="left">:zap: I’m looking to collaborate on projects and npm packages!</p>
 
