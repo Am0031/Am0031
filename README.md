@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: Email me at amelie.pira@gmail.com
 
-- 👨‍💻 All of my projects are available on my [portfolio](https://am0031.github.io/my-portfolio-react/) and on my [GitHub page](https://github.com/Am0031?tab=repositories)
+- 👨‍💻 All of my projects are available on my [portfolio](https://am0031.github.io/my-portfolio-react/) and also on my [GitHub page](https://github.com/Am0031?tab=repositories)
 
 
 ## Connect with me
