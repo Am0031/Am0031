@@ -50,9 +50,10 @@
 
 
 <div id="stats" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=am0031&show_icons=true&theme=jolly&locale=en" alt="am0031" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=am0031-uk&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Am0031's github stats" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=am0031&theme=jolly&" alt="am0031" />
 </div>
+
 
 
 
