@@ -4,14 +4,13 @@
 <h1 align="center">Hi 👋, I'm Amelie</h1>
 <h3 align="center">A passionate full stack web developer from the UK</h3>
 
-[![snake gif](https://github.com/amirtha-coder/amirtha-coder/blob/output/github-contribution-grid-snake.gif)](url)
 
 ## Some info about me
 - <p align="left">:star2: I retrained as a full stack developer in 2022 </p>
 
 - <p align="left">:key: Ask me about my journey into Tech</p>
 
-- 🌱 I’m currently working with TS/React, and dabbing in UI/UX with Figma.
+- 🌱 I’m currently working with TS/React, Node, Python and AWS.
 
 - <p align="left">:zap: I’m looking to collaborate on projects and npm packages!</p>
 
